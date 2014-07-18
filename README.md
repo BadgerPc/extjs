@@ -12,7 +12,7 @@ Let’s write an application, this application simply popups a window and let yo
 
 Read More
 =========
-Refer blog at https://wordpress.com/read/post/id/71446687/2/ for more details on this.
+Refer blog at http://intelliscience.wordpress.com/2014/07/18/extjs-4-x-with-spring-mvc-and-rest/ for more details on this.
 
 To Run
 ======
